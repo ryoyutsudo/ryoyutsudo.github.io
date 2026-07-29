@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# 隠しページは検索結果に載せない。
+Disallow: /signal/
+Disallow: /void/
+Disallow: /cave/
+Disallow: /trench/
+Disallow: /dream/
+
+Sitemap: https://ryoyutsudo.github.io/sitemap-index.xml
